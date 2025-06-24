@@ -43,7 +43,6 @@ This project analyzes RNA-Seq data to explore gene expression changes in Parkins
 
 ### 3. Clustering and Exploratory Analysis
 
-* **PCA**: Performed using `plotPCA()` and visualized with **ggplot2**
 * **Hierarchical Clustering**: Sample-to-sample distance matrix with **pheatmap**
 * **Heatmap**: Top 50 DEGs visualized
 
@@ -74,7 +73,7 @@ This project analyzes RNA-Seq data to explore gene expression changes in Parkins
 
 ### Sample Clustering
 
-* Clear separation between PD and control samples (PCA, heatmaps)
+* Clear separation between PD and control samples 
 
 ### Differential Expression
 
@@ -91,6 +90,10 @@ This project analyzes RNA-Seq data to explore gene expression changes in Parkins
 </p>
 
 * **GO Terms**: Enriched in synapse organization, neurogenesis, and axon development.
+
+<p align="center">
+  <img src="Plot/KEGG_Pathways.jpeg" alt="KEGG Pathways" width="500"/>
+</p>
 
 * **KEGG Pathways**: Enriched in Dopaminergic synapse, Neurotrophin signaling, MAPK signaling, and Pathways of neurodegeneration.
 
