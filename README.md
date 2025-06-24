@@ -86,6 +86,7 @@ This project analyzes RNA-Seq data to explore gene expression changes in Parkins
 
 ### Functional Enrichment
 
+![GO Biological Process](Plot/GO_Biological_Process.jpeg)
 * **GO Terms**: Enriched in synapse organization, neurogenesis, and axon development.
 
 * **KEGG Pathways**: Enriched in Dopaminergic synapse, Neurotrophin signaling, MAPK signaling, and Pathways of neurodegeneration.
